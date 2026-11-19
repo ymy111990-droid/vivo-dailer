@@ -8,6 +8,7 @@
     <uses-permission android:name="android.permission.READ_CALL_LOG"/>
 
     <application
+        android:theme="@style/AppTheme
         android:allowBackup="true"
         android:label="Vivo Dialer"
         android:supportsRtl="true">
